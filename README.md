@@ -38,8 +38,6 @@ The collection covers methods, training, inference-time computation, interpretab
 
 ## 📄 Paper List
 
-ICLR 2027 submissions added from the [Score Atlas snapshot](https://songjhpku.github.io/ICLR2027-statistics/) (2026-11-06 UTC) match the search `Latent reasoning` and have a **displayed mean rating ≥ 2.67/4** (including 8/3 rounded to 2.67): 11 papers, all under review in that snapshot, not accepted publications. Ratings and verification notes are recorded in [reference.bib](reference.bib). Five papers have matching arXiv metadata; six have snapshot metadata only and use `—` for unverified first-release dates. OpenReview access was blocked during verification; undated entries follow dated entries within their categories and their categorization is provisional.
-
 <!-- BEGIN BIBLIOGRAPHY CATALOG -->
 
 ### Implicit CoT Distillation
